@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=FSR1 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=FSR2 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=FSR3 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=FSR4 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=FSR5 Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=FSR6 Pin=R14-2
+Removed Member From Class: ClassName=Pallette v0.5 Member=R9
+Removed Member From Class: ClassName=Pallette v0.5 Member=R10
+Removed Member From Class: ClassName=Pallette v0.5 Member=R11
+Removed Member From Class: ClassName=Pallette v0.5 Member=R12
+Removed Member From Class: ClassName=Pallette v0.5 Member=R13
+Removed Member From Class: ClassName=Pallette v0.5 Member=R14
+Added Room: Name=Pallette v0.5

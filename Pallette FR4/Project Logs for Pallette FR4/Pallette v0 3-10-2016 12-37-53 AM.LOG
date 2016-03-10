@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SCL Pin=T29-1
+Removed Pin From Net: NetName=SDA Pin=T30-1
+Removed Pin From Net: NetName=SCL Pin=T31-1
+Removed Pin From Net: NetName=SDA Pin=T32-1
+Removed Member From Class: ClassName=Pallette v0.5 Member=T29
+Removed Member From Class: ClassName=Pallette v0.5 Member=T30
+Removed Member From Class: ClassName=Pallette v0.5 Member=T31
+Removed Member From Class: ClassName=Pallette v0.5 Member=T32

@@ -1,0 +1,4 @@
+Added Component: Designator=T33(TP 1.2x2MM)
+Added Pin To Net: NetName=P1_7/DCDC Pin=T33-1
+Added Member To Class: ClassName=Pallette v0.5 Member=Component T33 TP 1.2X2MM
+Added Room: Name=Pallette v0.5
