@@ -1,9 +1,0 @@
-Added Component: Designator=T29(TP 1.5MM)
-Added Component: Designator=T30(TP 1.5MM)
-Added Component: Designator=T31(TP 1.5MM)
-Added Component: Designator=T32(TP 1.5MM)
-Added Member To Class: ClassName=Pallette v0.5 Member=Component T29 TP
-Added Member To Class: ClassName=Pallette v0.5 Member=Component T30 TP
-Added Member To Class: ClassName=Pallette v0.5 Member=Component T31 TP
-Added Member To Class: ClassName=Pallette v0.5 Member=Component T32 TP
-Added Room: Name=Pallette v0.5

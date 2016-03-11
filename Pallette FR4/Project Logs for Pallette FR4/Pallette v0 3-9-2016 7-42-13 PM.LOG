@@ -1,5 +1,0 @@
-Added Component: Designator=T1(TP 2MM)
-Added Pin To Net: NetName=NetT1 Pin=U3-34
-Added Net: Name=NetT1
-Added Member To Class: ClassName=Pallette v0.5 Member=Component T1 TP
-Added Room: Name=Pallette v0.5

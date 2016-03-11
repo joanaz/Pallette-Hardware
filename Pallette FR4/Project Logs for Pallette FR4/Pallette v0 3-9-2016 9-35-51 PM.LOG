@@ -1,5 +1,0 @@
-Added Component: Designator=P1(Battery Leads)
-Added Pin To Net: NetName=VBAT Pin=P1-1
-Added Pin To Net: NetName=GND Pin=P1-2
-Added Member To Class: ClassName=Pallette v0.5 Member=Component P1 Header Battery
-Added Room: Name=Pallette v0.5
