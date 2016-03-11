@@ -1,3 +1,6 @@
 *.PcbDocPreview
 History/
 *.SchDocPreview
+Project Logs for Pallette FR4/
+Project Outputs for Pallette FR4/
+*.PrjPcbStructure
