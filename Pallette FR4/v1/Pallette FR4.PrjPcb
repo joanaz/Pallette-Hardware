@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Pallette FR4
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -39,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Pallette v2.PcbDoc
+DocumentPath=Pallette v0.5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DFFUPYSI
 
 [Document2]
-DocumentPath=Pallette v2.SchDoc
+DocumentPath=Pallette v0.5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -128,99 +128,79 @@ DocumentPath=Project Outputs for Pallette FR4\Bill of Materials-Pallette FR4.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.DRR
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.EXTREP
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GBL
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GBO
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GBP
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GBS
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GKO
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GM1
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GM2
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GM13
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GM15
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GTL
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GTO
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GTP
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.GTS
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.LDP
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.REP
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.RUL
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2_multiple.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2_multiple.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2_multiple.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2_multiple.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Pallette FR4\Pallette v2_multiple.RUL
+DocumentPath=Project Outputs for Pallette FR4\Pallette v0.5.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -233,7 +213,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Pallette FR4
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1129,14 +1109,14 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Schlib.SchLib
-ComponentDesignItemID0=BAT RETAINER
-ComponentSymbolReference0=BAT RETAINER
+ComponentDesignItemID0=74LVC2G125
+ComponentSymbolReference0=74LVC2G125
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Schlib.SchLib
-ComponentDesignItemID1=BUFF 74LVC2G125
-ComponentSymbolReference1=BUFF 74LVC2G125
+ComponentDesignItemID1=BLE113
+ComponentSymbolReference1=BLE113
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
@@ -1147,8 +1127,8 @@ ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Schlib.SchLib
-ComponentDesignItemID3=CAP 10uF
-ComponentSymbolReference3=CAP 10uF
+ComponentDesignItemID3=Cap 2.2uF
+ComponentSymbolReference3=Cap 2.2uF
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
@@ -1165,82 +1145,52 @@ ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Schlib.SchLib
-ComponentDesignItemID6=HEADER CONN 3P
-ComponentSymbolReference6=HEADER CONN 3P
+ComponentDesignItemID6=Header Battery
+ComponentSymbolReference6=Header Battery
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Schlib.SchLib
-ComponentDesignItemID7=HEADER CONN 6P
-ComponentSymbolReference7=HEADER CONN 6P
+ComponentDesignItemID7=Header Program
+ComponentSymbolReference7=Header Program
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=Schlib.SchLib
-ComponentDesignItemID8=HEADER PROG
-ComponentSymbolReference8=HEADER PROG
+ComponentDesignItemID8=Ind 2.2uH
+ComponentSymbolReference8=Ind 2.2uH
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Schlib.SchLib
-ComponentDesignItemID9=HEADER PW TH
-ComponentSymbolReference9=HEADER PW TH
+ComponentDesignItemID9=Res 30R
+ComponentSymbolReference9=Res 30R
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=Schlib.SchLib
-ComponentDesignItemID10=IND 10uH
-ComponentSymbolReference10=IND 10uH
+ComponentDesignItemID10=Res 4.7K
+ComponentSymbolReference10=Res 4.7K
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Schlib.SchLib
-ComponentDesignItemID11=MIC 4P
-ComponentSymbolReference11=MIC 4P
+ComponentDesignItemID11=Si1141-M01
+ComponentSymbolReference11=Si1141-M01
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Schlib.SchLib
-ComponentDesignItemID12=MIC 6P
-ComponentSymbolReference12=MIC 6P
+ComponentDesignItemID12=TP 1.2X2MM
+ComponentSymbolReference12=TP 1.2X2MM
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Schlib.SchLib
-ComponentDesignItemID13=Res 30R
-ComponentSymbolReference13=Res 30R
+ComponentDesignItemID13=TPS62730
+ComponentSymbolReference13=TPS62730
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Schlib.SchLib
-ComponentDesignItemID14=Res 4.7K
-ComponentSymbolReference14=Res 4.7K
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Schlib.SchLib
-ComponentDesignItemID15=Si1141-M01
-ComponentSymbolReference15=Si1141-M01
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Schlib.SchLib
-ComponentDesignItemID16=SW
-ComponentSymbolReference16=SW
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Schlib.SchLib
-ComponentDesignItemID17=uC BLE113
-ComponentSymbolReference17=uC BLE113
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Schlib.SchLib
-ComponentDesignItemID18=VR XC9265A221MR-G
-ComponentSymbolReference18=VR XC9265A221MR-G
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1291,41 +1241,29 @@ ModelType3=PCBLIB
 ModelName3=1411
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=BAT RETAINER
+ModelName4=6-UFDFN
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=BLE113-A
+ModelName5=Battery Leads
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=MIC-4P
+ModelName6=BLE113-A
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=MIC-6P
+ModelName7=SI1141-M01
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=PORT CONN 3P
+ModelName8=TC2050-IDC-NL
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=PORT CONN 6P
+ModelName9=TP 1.2x2MM
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=PORT PW 2P TH
+ModelName10=TP 2MM
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SI1141-M01
+ModelName11=VSSOP8
 ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=SOT-25
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=SW
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=TC2050-IDC-NL
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=VSSOP8
-ModelUpdate15=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
