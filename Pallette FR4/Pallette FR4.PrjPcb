@@ -223,6 +223,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Pallette FR4\Pallette v2_multiple.RUL
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Title
+Value=Pallette
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
