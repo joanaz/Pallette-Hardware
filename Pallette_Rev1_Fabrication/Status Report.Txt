@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Pallette_Rev1.PrjPcb]
+   Generated File[Bill of Materials-Pallette_Rev1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:59:40 PM On 8/30/2016

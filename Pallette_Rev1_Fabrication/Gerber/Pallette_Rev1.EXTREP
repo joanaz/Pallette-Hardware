@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Pallette_Rev1.GBR   8/30/2016  2:59:35 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Board Outline                           
+.GM2                TopDesignator                           
+.GM3                TopValues                               
+.GM12               V-Score                                 
+.GM13               Assembly                                
+.GM15               Courtyard                               
+.GM16               Datum Cross                             
+------------------------------------------------------------------------------------------
