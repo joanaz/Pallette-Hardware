@@ -1,0 +1,33 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C11        0402              1667.401mil    141.811mil   1667.401mil    141.811mil   1667.401mil    163.465mil  T        270.00 100nF          
+SW1        SW_DPDT_TH_RA      122.047mil     236.22mil    122.047mil     236.22mil    187.007mil    334.646mil  T        270.00 SW DPDT TH RA  
+C13        0402              2591.535mil    437.008mil   2591.535mil    437.008mil   2613.189mil    437.008mil  T        180.00 100nF          
+U4         BLE113-A          2509.841mil    219.488mil   2511.809mil    219.488mil   2790.353mil     368.11mil  T        270.00 BLE113-A-M256K 
+R6         0402               2407.48mil    437.008mil    2407.48mil    437.008mil   2385.826mil    437.008mil  T        360.00 4.7K           
+R5         0402              2322.834mil    437.007mil   2322.834mil    437.008mil   2344.488mil    437.007mil  T        180.00 4.7K           
+L1         0805              1328.742mil    223.425mil   1328.742mil    223.425mil   1328.742mil    262.795mil  T        270.00 10uH           
+C3         0603              1298.228mil    109.252mil   1298.228mil    109.252mil   1298.228mil     77.756mil  T         90.00 22uF           
+C1         1411              1191.931mil    348.425mil   1191.931mil    348.425mil   1132.876mil    348.425mil  T        360.00 100uF          
+C2         0603              1116.143mil    235.236mil   1116.144mil    235.236mil   1116.143mil     203.74mil  T         90.00 10uF           
+U1         SOT-25            1220.474mil    222.441mil   1220.474mil    222.441mil    1173.23mil    259.842mil  T          0.00 XC9265A221MR-G 
+BAT1       BAT_RETAINER_13    507.879mil    226.377mil    507.879mil    226.377mil     730.91mil    226.377mil  T          0.00 RETAINER COIN CELL 7.9MM
+R1         0603              1192.913mil    134.842mil   1192.913mil    134.842mil   1224.409mil    134.842mil  T        180.00 220R           
+D1         LED_0603          1193.898mil     90.551mil   1193.898mil     90.551mil   1226.378mil     90.551mil  T        180.00 SML-D12V1WT86  
+C12        0402              2246.063mil    437.008mil   2246.063mil    437.008mil   2224.409mil    437.008mil  T        360.00 100nF          
+R2         0402              1563.975mil    362.205mil   1563.976mil    362.205mil   1563.975mil    340.552mil  T         90.00 30R            
+S1         SI1141-M01        1562.992mil    204.724mil   1562.992mil    204.724mil   1515.748mil    283.465mil  T        360.00 Si1141-M01     
+R3         0402              1976.377mil    362.206mil   1976.378mil    362.206mil   1976.377mil    340.552mil  T         90.00 30R            
+C8         0603              2020.669mil    362.205mil   2020.669mil    362.205mil   2020.669mil    393.701mil  T        270.00 22uF           
+C7         0402              1853.346mil    141.732mil   1853.346mil    141.732mil   1853.346mil    120.079mil  T         90.00 100nF          
+U3         MIC-4P            1759.842mil      106.3mil   1759.842mil      106.3mil   1718.701mil     81.693mil  T         90.00 SPW0430HR5HB-B 
+C5         0402              1646.574mil     82.756mil   1646.574mil     82.756mil   1668.228mil     82.756mil  T        180.00 100nF          
+C6         0603              1609.251mil    362.205mil   1609.251mil    362.205mil   1609.251mil    393.701mil  T        270.00 22uF           
+C4         0402              1660.433mil    357.284mil   1660.433mil    357.284mil   1660.433mil    378.937mil  T        270.00 100nF          
+S2         SI1141-M01        1962.599mil    204.725mil   1962.599mil    204.725mil   1915.354mil    283.465mil  T          0.00 Si1141-M01     
+S3         SI1141-M01        1704.134mil    511.811mil   1704.134mil    511.811mil   1625.394mil    464.567mil  T         90.00 Si1141-M01     
+C9         0402              1830.708mil    520.669mil   1830.709mil    520.669mil   1830.708mil    499.016mil  T         90.00 100nF          
+C10        0603              1576.772mil     539.37mil   1576.772mil     539.37mil   1576.772mil    570.866mil  T        270.00 22uF           
+R4         0402              1558.071mil    457.677mil   1558.071mil    457.677mil   1579.724mil    457.677mil  T        180.00 30R            
+U2         VQFN14            1767.716mil    313.976mil   1767.716mil    313.976mil   1699.803mil    284.449mil  T          0.00 SN74LVC125A    
+
